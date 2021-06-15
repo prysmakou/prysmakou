@@ -1,16 +1,20 @@
-### Hi there 👋
+# 👋 Hi, I’m Alex  
 
-<!--
-**prysmakou/prysmakou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an **AI/LLM Engineer & Tech Lead** with 20+ years of experience in IT, Cloud, and DevOps.  
+My mission is to make **AI practical, secure, and scalable** — from research prototypes to production-grade systems.  
 
-Here are some ideas to get you started:
+## 🔹 What I Do
+- 🧠 **LLM Engineering**: Deploying and fine-tuning open-source & proprietary LLMs (LLaMA, Mistral, GPT, etc.)  
+- ☁️ **AI Infrastructure**: GPU clusters, AWS, Kubernetes, Terraform, Helm, ArgoCD  
+- 🔄 **MLOps / AIOps**: Model lifecycle automation, monitoring, and compliance  
+- 🔐 **Trustworthy AI**: Private deployments, security, and governance for enterprise adoption  
+- 👥 **Leadership**: Mentoring engineers, leading cross-functional teams, and aligning AI strategy with business goals  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 Current Focus
+- Building **private LLM platforms** on AWS/EKS  
+- Experimenting with **RAG pipelines** and **multimodal AI**  
+- Sharing knowledge about **AI infra & DevOps for LLMs**  
+
+⚡ Always open to collaborations on **AI infrastructure, DevOps for ML, and Generative AI projects**.  
+
+Also see [My Github Pages](https://prysmakou.github.io)
