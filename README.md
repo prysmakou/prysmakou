@@ -1,6 +1,6 @@
 ### Thank you for the interest in my profile 👋
 
-If you interested in my contribution history, it is private repos of the projects i proudly participated in.
+If you interested in my contribution history, it is in private repos of the projects i proudly participated in.
 
 - 🔭 I do:
   - Engineering management
