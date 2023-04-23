@@ -10,4 +10,4 @@
 - 💬 Ask me about Cloud Infrastructure and AWS, Containers Orchestration amd Kubernetes, Configuration Management and Software Development Lifecycle Management etc.
 - 📫 How to reach me: prysmak@i☁️.com (icloud), telegram: **@SmakOf**, twitter: **prysmakou_it**, Linkedin/FB/IG
 
-Also see [prysmakou.gitghub.io]
+Also see (My Github Pages Blog)[prysmakou.gitghub.io]
